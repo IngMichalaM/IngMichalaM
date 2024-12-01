@@ -1,5 +1,5 @@
 - 👀 I’m interested in automated and manual testing, web automation and writting of small scripts in Python and JS.
-- 🌱 I’m currently learning JavaScript (Postman).
+- 🌱 I’m currently learning JavaScript (Postman) and I want to brush up on my Python skills.
 - 📫 You can reach me via LinkedIn: www.linkedin.com/in/ing-michala-marková 
 
 <!---
